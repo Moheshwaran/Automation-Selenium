@@ -36,3 +36,7 @@ public void close() {
 	driver.quit();
 }
 }
+
+
+
+//Base class this is open close login and logout
